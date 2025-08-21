@@ -17,4 +17,4 @@ The dataset includes the following tables:
 
 ## Entity-Relationship Diagram
 
-![ERD](images/ERD.png)
+![ERD](ERD.png)
